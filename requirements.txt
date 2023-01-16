@@ -1,0 +1,9 @@
+altair
+jupyter
+jupyterlab
+numpy
+pandas
+pandas-profiling
+python
+scikit-learn
+seaborn
